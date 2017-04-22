@@ -1,0 +1,92 @@
+{
+    "bits":[
+        {
+            "bitId":"1",
+            "panoramaImageURL":"Soldier.jpg",
+            "bitTitle":"Soldier",
+            "bitDescription":"I want my country to have peace and my family to have the best to live. I think technology helps people like me in order to give security to our country",
+            "bitPersonName":"Camilo",
+            "bitPersonGender":"Man"
+        },
+        {
+            "bitId":"2",
+            "panoramaImageURL":"Artisan.jpg",
+            "bitTitle":"Artisan",
+            "bitDescription":"I dream of traveling the world. I think technology can make life easier for people, the way of life, making people more positive and happy.",
+            "bitPersonName":"Roberto",
+            "bitPersonGender":"Man"
+        },
+        {
+            "bitId":"3",
+            "panoramaImageURL":"Musician.jpg",
+            "bitTitle":"Musician",
+            "bitDescription":"I dream of playing with the symphony and being very well known. I think technology can change the world as it allows innovation in fields such as education.",
+            "bitPersonName":"Javier",
+            "bitPersonGender":"Man"
+        },
+        {
+            "bitId":"4",
+            "panoramaImageURL":"Dentist.jpg",
+            "bitTitle":"Dentist",
+            "bitDescription":"I dream of having a family and being professionally successful in Massachusetts. I think technology helps to reach people who do not have access to education.",
+            "bitPersonName":"Daniela",
+            "bitPersonGender":"Woman"
+        },
+        {
+            "bitId":"5",
+            "panoramaImageURL":"Tattoer.jpg",
+            "bitTitle":"Tattoer",
+            "bitDescription":"I dream of supporting initiatives that end the suffering of animals and humans. I think technology can help us create food that avoids animal suffering.",
+            "bitPersonName":"Diana",
+            "bitPersonGender":"Woman"
+        },
+        {
+            "bitId":"6",
+            "panoramaImageURL":"Actor.jpg",
+            "bitTitle":"Actor",
+            "bitDescription":"I dream of continuing to work on what I love. I think the world can change with technology because it can help people who are in difficult health situations.",
+            "bitPersonName":"Jairo",
+            "bitPersonGender":"Man"
+        },
+        {
+            "bitId":"7",
+            "panoramaImageURL":"Doorman.jpg",
+            "bitTitle":"Doorman",
+            "bitDescription":"I dream of building my house. I think technology can improve the reality of my country by creating new jobs.",
+            "bitPersonName":"Edwin",
+            "bitPersonGender":"Man"
+        },
+        {
+            "bitId":"8",
+            "panoramaImageURL":"StreetArtist.jpg",
+            "bitTitle":"Street Artist",
+            "bitDescription":"I dream of living in NY, painting giant murals and having my own brand of art and design there. I think technology provides communication between millions of people around the world and this can help achieve joint goals that benefit the world.",
+            "bitPersonName":"Maria",
+            "bitPersonGender":"Woman"
+        },
+        {
+            "bitId":"9",
+            "panoramaImageURL":"Student.jpg",
+            "bitTitle":"Student",
+            "bitDescription":"I dream of being able to save the whales. I think technology allows us to create clean and renewable energies for a better planet.",
+            "bitPersonName":"Juan",
+            "bitPersonGender":"Man"
+        },
+        {
+            "bitId":"10",
+            "panoramaImageURL":"Artist.jpg",
+            "bitTitle":"Artist",
+            "bitDescription":"I dream of Exhibiting in Europe or in some recognized gallery. I think technology can change the world to the extent that it can do things that humans can not",
+            "bitPersonName":"Valeria",
+            "bitPersonGender":"Woman"
+        },
+        {
+            "bitId":"11",
+            "panoramaImageURL":"Me.jpg",
+            "bitTitle":"iOS Developer",
+            "bitDescription":"With tears in my eyes I swore I was going to change the fate of my family. I dream of being able to keep that promise. Technology has helped me take steps along that path, but I hope I can use software to create better paths for other people.",
+            "bitPersonName":"David",
+            "bitPersonGender":"Me"
+        }
+    ]
+}
